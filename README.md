@@ -2,7 +2,7 @@
 `Learn Financial Python (lrnfinpy)` is a public educational library which is used to update tutorials, code, and hints for beginner or intermediate financial practitioners who need to use Python to resolve financial problems. Theses source files contain solutions to deal with financial data, as well as some projects to solve some real-world problems. It is continuously updating.
 
 # For Learners
-We assume that you at least have some intermediate knowledge in at least one of the following OOP languages: `C++`, `Java`, `C# .NET`, `Rust`, and so. And we assume that you HAVE known some basic syntax, data structures, and features of `Python 3`, like `indentation`, `list objects`, `how to define a class and methods`, and so. We will focus on libraries and practical projects, thus it is NOT a place to learn the language `Python` itself.
+We assume that you at least have some intermediate knowledge in at least one of the following OOP languages: `C++`, `Java`, `C# .NET`, `Rust`, and hopefully you have learned `SQL` before. And we assume that you HAVE known some basic syntax, data structures, and features of `Python 3`, like `indentation`, `list objects`, `how to define a class and methods`, and so. We will focus on libraries and practical projects, thus it is NOT a place to learn the language `Python` itself.
 
 This material is NOT for a complete beginner who HAVE NOT ever programmed before!
 

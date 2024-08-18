@@ -9,6 +9,8 @@ This material is NOT for a complete beginner who HAVE NOT ever programmed before
 # Index
 `1. Pandas, Polars, and Numpy`: This educational source file serves as a textbook that roughly introduces those libraries, compares the difference, and shows some examples in financial domain. Common methods of data structures and APIs are comprehensively introduced along with some easy-to-understand examples.
 
+To be updated ...
+
 # About Author
 Nathmath from DOF Studio, building from Aug 18, 2024.
 
